@@ -75,6 +75,7 @@ Form-Based Authentication
 Security at Method Level
 Spring Security Tag Library
 
+13 Spring Batch
 
 Hibernate:
 
@@ -140,5 +141,7 @@ o Using Stored Procedure for Querying
 o Creating Custom SQL for CRUD
 
 9: Transaction and Concurrency
+
+
 
 
